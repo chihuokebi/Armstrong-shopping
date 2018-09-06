@@ -10,6 +10,23 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Intellij
+*.iml
+*/*.iml
+.idea/
+
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
 # Package Files #
 *.jar
 *.war

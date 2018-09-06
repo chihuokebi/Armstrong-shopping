@@ -1,0 +1,7 @@
+com\taotao\service\impl\ItemCatServiceImpl.class
+com\taotao\service\impl\ItemServiceImpl.class
+com\taotao\service\impl\UploadPictureServiceImpl.class
+com\taotao\service\impl\ContentCategoryServiceImpl.class
+com\taotao\service\impl\ItemSaveServiceImpl.class
+com\taotao\service\impl\TbContentServiceImpl.class
+com\taotao\service\impl\ItemParamServiceImpl.class
