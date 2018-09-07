@@ -9,6 +9,11 @@ import org.springframework.web.multipart.MultipartFile;
  *
  */
 public interface UploadPictureService {
-	
+	/**
+	 *
+	 * @param uploadFile
+	 * @return
+	 * @throws Exception
+	 */
 	PictureResult uploadFile(MultipartFile uploadFile) throws Exception;
 }
